@@ -1,0 +1,13 @@
+{
+  "APP_NAME":"Linear_Programming",
+  "VERSION":"0.1.0",
+  "ENV_REMARKS":"TBD",
+  "ENV_OPTIONS":"1-UAT; 9-PROD",
+  "ENV":1,
+  "PATHS":{
+    "SOURCE_CODE":"src",
+    "DATA":"data",
+    "LOG":"log",
+    "TEST":"test"
+  }
+}
